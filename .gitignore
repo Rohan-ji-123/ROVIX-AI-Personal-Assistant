@@ -7,3 +7,5 @@ __pycache__/
 *.db
 *.sqlite3
 .ipynb_checkpoints/
+security/password_data.json
+security/login_state.json
