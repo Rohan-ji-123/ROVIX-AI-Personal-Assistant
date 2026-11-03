@@ -9,3 +9,5 @@ __pycache__/
 .ipynb_checkpoints/
 security/password_data.json
 security/login_state.json
+# Downloaded AI models
+models/
